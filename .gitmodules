@@ -4,3 +4,6 @@
 [submodule "nodejs/--name"]
 	path = nodejs/--name
 	url = https://github.com/IsraelBanez/tradingeconomics-js.git
+[submodule "nodejs/trading"]
+	path = nodejs/trading
+	url = https://github.com/IsraelBanez/tradingeconomics-js.git
