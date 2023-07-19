@@ -1,0 +1,3 @@
+[submodule "nodejs/tradingeconomics-js"]
+	path = nodejs/tradingeconomics-js
+	url = https://github.com/tradingeconomics/tradingeconomics-js.git
